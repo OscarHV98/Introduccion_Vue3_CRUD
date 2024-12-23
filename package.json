@@ -2,6 +2,8 @@
   "name": "contact-manager-crud",
   "version": "0.1.0",
   "private": true,
+  "description": "Practica Vue3, Crud Contactos",
+  "author": "Oscar Herbas Velasco",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
